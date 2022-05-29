@@ -33,7 +33,7 @@ Note: Don't worry, all inputs will be strings, and every string is a perfectly v
 ***
 # Education
 ## University: 
-Belarusian State Technological University, Biotechnology major
+**Belarusian State Technological University, Biotechnology major**
 ## Courses:
 * JavaScript for beginners on stepik.org (completed)
 * Web development for beginners on stepik.org (completed)
