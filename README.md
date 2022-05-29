@@ -1,1 +1,1 @@
-# rsschool-cv
+https://milsevka.github.io/rsschool-cv/cv
