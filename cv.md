@@ -14,8 +14,8 @@ I've been working in a food factory in laboratory for a year now and every day I
 I haven't programming experience, but I am ready to learn new things and to improve my skills
 ***
 # Skills
-* HTML5
-* CSS3
+* HTML5 (Basic)
+* CSS3 (Basic)
 * JavaScript (Basic)
 * Git, GitHub
 * VS Code
