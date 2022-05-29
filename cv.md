@@ -11,11 +11,11 @@
 ***
 
 # About me
-I graduated from BSTU in 2021 with a degree in Biotechnology and now i am engineer of chemistry.
+I graduated from BSTU in 2021 with a degree in Biotechnology and now i am chemical engineer.
 
 I've been working in a food factory in laboratory for a year now and every day I am thinking about a new job.
 
-I haven't programming experience, but I am ready to learn new things and to improve my skills
+I have no programming experience, but I am ready to learn new things and to improve my skills
 
 ***
 
