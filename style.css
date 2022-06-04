@@ -1,3 +1,79 @@
-h1 {
-color: red;
+.header {
+  text-align: justify;
+    letter-spacing: 1px;
+    height: 30%;
+    padding: 10px 10%;
+    background-image: 180deg, rgb(137, 194, 156);
+    text-align: center;
+    width: 100%;  
+}
+body {
+  font-family: 'Joan', serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0; 
+  padding: 0;
+  justify-content: space-between;
+  background-image: linear-gradient(180deg, rgb(74, 157, 182), #ddd 80%, #ccc);
+}
+  .round {
+  border-radius: 150px; 
+  float: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 50%;
+  height: auto;
+
+}
+#content {
+  float: right ;
+  width: 70% ;
+  text-align:left;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-left: 50px;
+}
+#navbar {
+  float: right;
+  width: 30%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-left: 50px;
+}
+* {
+  box-sizing: border-box;
+}
+.footer {
+  background-color: rgb(152, 200, 211);
+    padding: 10px 0;
+    text-align: center;
+}
+::-webkit-scrollbar {
+  width: 0;
+}
+.container2 {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+.foot {
+ text-align: center; 
+}
+.container1 {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+#img {
+  float: left;
+  width: 30%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+#name { 
+  float: right ;
+  width: 70% ;
+  text-align: center;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-top: 20px;
 }
