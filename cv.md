@@ -54,6 +54,7 @@ Given a lottery ticket (ticket), represented by an array of 2-value arrays, you 
 * Momentum: https://milsevka-momentum.netlify.app/
 * Travel: https://rolling-scopes-school.github.io/milsevka-JSFEPRESCHOOL2022Q2/travel/
 * Eldritch: https://milsevka-eldritch-codejam.netlify.app/
+
 ***
 
 # Education
