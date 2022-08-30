@@ -26,6 +26,7 @@ I have no programming experience, but I am ready to learn new things and to impr
 * JavaScript (Basic)
 * Git, GitHub
 * VS Code
+* Figma
 
 ***
 
