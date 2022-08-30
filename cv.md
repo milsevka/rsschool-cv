@@ -48,3 +48,29 @@ Given a lottery ticket (ticket), represented by an array of 2-value arrays, you 
     }
     
 ***
+
+# Experience
+* Momentum: https://milsevka-momentum.netlify.app/
+* Travel: https://rolling-scopes-school.github.io/milsevka-JSFEPRESCHOOL2022Q2/travel/
+* Eldritch: https://milsevka-eldritch-codejam.netlify.app/
+***
+
+# Education
+
+## University: 
+**Belarusian State Technological University, Biotechnology major**
+
+***
+
+## Courses:
+* JavaScript for beginners on stepik.org (completed)
+* Web development for beginners on stepik.org (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 0» 
+* RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+***
+
+# Languages
+* English - Pre-intermidiate
+* Belarussian - native
+* Russian - native
