@@ -40,11 +40,8 @@
             </div>
           </div>
           <div class="name_header">
-            <h1>
-              Liudmila Alsheuskaya<br /><span class="name_works"
-                >Junior Front-end developer</span
-              >
-            </h1>
+            <h1>Liudmila Alsheuskaya</h1>
+            <span class="name_works">Junior Front-end developer</span>
           </div>
         </div>
         <div class="profile_info">
@@ -112,14 +109,14 @@
               </p>
             </div>
             <div class="education" id="about">
-              <h2 class="tittle">Education:</h2>
+              <h2 class="tittle">Education</h2>
               <span class="text"
                 >Belarusian State Technological University, Biotechnology
                 major.</span
               >
             </div>
             <div class="courses" id="courses">
-              <h2 class="tittle"><b>Courses:</b></h2>
+              <h2 class="tittle"><b>Courses</b></h2>
               <ul>
                 <li>
                   <span class="text"
@@ -164,21 +161,25 @@
               <pre>
       <code> 
         function bingo(ticket, win) {
-        let res = 0
-        for (let i = 0; i < ticket.length; i++) {
-        let z = ticket[i][1];
-        let l = String.fromCharCode(z);
-        if (ticket[i][0].includes(l)){
-        res++ }
+            let res = 0
+            for (let i = 0; i < ticket.length; i++) {
+                let z = ticket[i][1];
+                let l = String.fromCharCode(z);
+                if (ticket[i][0].includes(l)){
+                    res++ 
+                }
+            }
+            if (res >= win) {
+                return 'Winner!'
+            } 
+            return 'Loser!' 
         }
-        if (res >= win) {
-        return 'Winner!'
-        } return 'Loser!' }
       </code>
       </pre>
             </div>
             <div class="experience" id="experience">
-                <h2 class="tittle"><b>Experience</b></h2>  
+                <h2 class="tittle"><b>Experience</b></h2> 
+                <p>This is my projects which i made in RS Schools Course «JavaScript/Front-end. Stage 0»</p> 
                 <ul>
                     <li><span class="text"><a href="https://milsevka-momentum.netlify.app/">Momentum</a></span></li>
                     <li><span class="text"><a href="https://rolling-scopes-school.github.io/milsevka-JSFEPRESCHOOL2022Q2/travel/">Travel</a></span></li>
@@ -191,11 +192,9 @@
       </main>
       <footer>
         <div class="footer">
-            <!-- <p><span class='textfooter'>(c)<a href="https://github.com/milsevka">Liudmila Alsheuskaya</a>, 2022</span>
-                <span class='school'>
-                <a href="https://rs.school/js/">
-                <img src="https://rs.school/images/rs_school_js.svg" alt="logo school"/></a></span></p> -->
-        </div>
+            <div class="rss_logo"><a href="https://rs.school/js/"><img src="https://rs.school/images/rs_school_js.svg" alt="logo school" class="school_logo"/></a></div>
+            <p><span class='textfooter'>(c) <a href="https://github.com/milsevka">Liudmila Alsheuskaya</a>, 2022</span>  
+        </div> 
       </footer>
     </div>
   </body>
