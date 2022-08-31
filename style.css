@@ -1,0 +1,50 @@
+.body {
+    margin: 0 auto;
+    display: flex;
+}
+.main_container {
+ max-width: 1100px;
+ background-color: rgb(158, 203, 203, 0.5);
+ display: flex;
+ flex-direction: column;
+}
+.header_nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+}
+.profile_header {
+    display: flex;
+   flex-direction: row;
+    justify-content: space-around;
+    gap: 10px;
+}
+.photo_header {
+width: 20%;
+}
+.myphoto {
+    border-radius: 50%;
+    width: 100%;
+    filter: drop-shadow(0px 4px 4px rgba(73, 117, 120, 0.35));
+}
+.name_header {
+    display: flex;
+    align-items: center;
+    font-size: large;
+}
+.profile_info {
+    display: flex;
+    flex-direction: row;  
+}
+.contacts {
+    display: flex;
+    flex-direction: column;   
+    background-color: red;
+}
+.resume {
+    display: flex;
+    flex-direction: column;
+    background-color: blue; 
+}
